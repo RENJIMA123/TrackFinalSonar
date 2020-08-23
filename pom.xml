@@ -21,6 +21,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
+		 <sonar.projectKey>RENJIMA123_TrackFinalSonar</sonar.projectKey>
+  <sonar.organization>renjima123</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>6556099f0f57775a8d86b39cf7a38ec031bee1f8</sonar.login>
+
 	</properties>
 <dependencyManagement>
 		<dependencies>
